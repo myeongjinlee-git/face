@@ -1,0 +1,23 @@
+# 동양풍 관상가 테마: 다크(먹·남색 + 금색/주홍) / 라이트(한지 + 주홍)
+# 사용자는 앱 메뉴(⋮ → Settings)에서 라이트/다크를 바꿀 수 있으며, 기본은 시스템 설정을 따른다.
+
+[theme]
+font = "Noto Sans KR:https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap, sans-serif"
+headingFont = "Noto Serif KR:https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;700&display=swap, serif"
+baseRadius = "0.6rem"
+
+[theme.dark]
+primaryColor = "#C4553A"
+backgroundColor = "#11141F"
+secondaryBackgroundColor = "#1C2133"
+textColor = "#EDE6D6"
+linkColor = "#D4A84B"
+borderColor = "#3A3326"
+
+[theme.light]
+primaryColor = "#A6342A"
+backgroundColor = "#FBF7EF"
+secondaryBackgroundColor = "#F2E9D8"
+textColor = "#2B2118"
+linkColor = "#8A5A12"
+borderColor = "#E0D2B8"
